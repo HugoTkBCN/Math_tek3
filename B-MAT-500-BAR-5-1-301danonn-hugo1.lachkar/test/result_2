@@ -1,0 +1,6 @@
+21 elements
+Selection sort: 210 comparisons
+Insertion sort: 125 comparisons
+Bubble sort: 210 comparisons
+Quicksort: 80 comparisons
+Merge sort: 67 comparisons
